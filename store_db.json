@@ -1,0 +1,107 @@
+[
+    {
+        "id": 1,
+        "name": "Фигурка Наруто",
+        "price": 2500,
+        "image": "https://imgs.search.brave.com/p-FWaUMIz60ylxWXWfQ1jMFhXn5HyZjJKRfkOvicJ6c/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9nYW1l/c3VhLmNvbS51YS91/cGxvYWQvcmVzaXpl/X2NhY2hlL2libG9j/ay9jYWEvNjAwXzYw/MF8xNDBjZDc1MGJi/YTk4NzBmMThhYWRh/MjQ3OGIyNDg0MGEv/ZXp3ZGZyY2Zmdjlk/M3VyaHppMGdyazZi/eHMwNzNjcWouanBn",
+        "description": "Красивая фигурка любимого персонажа из аниме Naruto. Отличный подарок для поклонников!"
+    },
+    {
+        "id": 2,
+        "name": "Мягкая игрушка Санса",
+        "price": 1500,
+        "image": "https://imgs.search.brave.com/Oi3lOZTAZvzCUqFrxqD-Zp3WEHJPykhOvMv7VvSuucQ/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMucHJvbS51YS80/OTczNjk1NzIyX3cy/MDBfaDIwMF9pZ3J1/c2hrYS1zYW5zYS1p/ei5qcGc",
+        "description": "Очаровательная мягкая игрушка Санса, идеально подходящая для объятий и коллекционирования."
+    },
+    {
+        "id": 3,
+        "name": "Артбук My Hero Academia",
+        "price": 3500,
+        "image": "https://imgs.search.brave.com/V2DqwXfmU3KdckOfnSRVOuUYmJlk9jWjLWOQVsEMQqw/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cGljY2xpY2tpbWcu/Y29tL0ZHa0FBT1N3/NjZaa004cGYvTXkt/SGVyby1BY2FkZW1p/YS1PZmZpY2lhbC0x/c3QtRGVzaWduLUFy/dC1Cb29rLndlYnA",
+        "description": "Эксклюзивный артбук My Hero Academia с уникальными иллюстрациями для всех поклонников."
+    },
+    {
+        "id": 4,
+        "name": "Моделька Гоку",
+        "price": 3000,
+        "image": "https://imgs.search.brave.com/mqBcU51_nRkEU7L2CjVZtJ9pxnlNimGbq0_09kyX55A/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/dHJhZGVpbm4uY29t/L2YvMTM3NzYvMTM3/NzYxNjA5L2JhbmRh/aS0lRDAlOTglRDEl/ODElRDElODIlRDAl/QkUlRDElODAlRDAl/QjglRDElOEYtJUQx/JTgxJUQwJUJFJUQw/JUJGJUQwJUI1JUQx/JTgwJUQwJUJEJUQw/JUI4JUQwJUJBJUQw/JUJFJUQwJUIyLSVE/MCVBMSVEMCVCRSVE/MCVCRC0lRDAlOTMl/RDAlQkUlRDAlQkEl/RDElODMtJUQwJUE0/JUQwJUI4JUQwJUIz/JUQxJTgzJUQxJTgw/JUQwJUJBJUQwJUIw/LWRyYWdvbi1iYWxs/LXN1cGVyLTI1LWNt/LmpwZw",
+        "description": "Подробная моделька Гоку из Dragon Ball. Великолепное дополнение к коллекции."
+    },
+    {
+        "id": 5,
+        "name": "Футболка One Piece",
+        "price": 2000,
+        "image": "https://imgs.search.brave.com/584V3wmUNKXED78H326kLulmFHfj7xignxsAC6aZ7vM/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWdh/c3BvcnQudWEvYXBp/L3MzL2ltYWdlcy9t/ZWdhc3BvcnQtZGV2/L3Byb2R1Y3RzLzM1/NTU1NzAxNDQvNjVm/YzM4NmFjMWZkOC02/Mzg5MTA1LmpwZWc",
+        "description": "Стильная футболка с дизайном One Piece, идеальный выбор для фанатов этого аниме."
+    },
+    {
+        "id": 6,
+        "name": "Постер Demon Slayer",
+        "price": 800,
+        "image": "https://imgs.search.brave.com/_0eCJdhi6jwSwp8EMnkDQ76waa2ZOHL6P6fpIr0Kg_o/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMucHJvbS51YS8y/OTI1MjE4NTk1X3c2/NDBfaDY0MF9wb3N0/ZXItbmV6dWtvLXpl/bml0c3UuanBn",
+        "description": "Яркий постер Demon Slayer для украшения комнаты или рабочего места."
+    },
+    {
+        "id": 7,
+        "name": "Кружка Attack on Titan",
+        "price": 1200,
+        "image": "https://imgs.search.brave.com/RnruPCqSc28QhYSZQ54L2RFF7ARcmC9a0j2CDJq_P9Q/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9hbmlt/ZS1taXIuY29tL2lt/YWdlL2NhY2hlL2Nh/dGFsb2cvJUQwJUJG/JUQwJUIwJUQwJUJG/JUQwJUJFJUQxJTg3/JUQwJUJBJUQwJUIw/JUQwJUJDLyVEMCVC/QSVEMSU4MCVEMSU4/MyVEMCVCNiVEMCVC/QSVEMCVCOC8zNC0w/LTEtMS01MDB4NTAw/LTAtMS0xLTI4OHgy/ODguanBn",
+        "description": "Керамическая кружка с дизайном Attack on Titan, идеальна для горячих напитков."
+    },
+    {
+        "id": 8,
+        "name": "Книга Tokyo Ghoul",
+        "price": 1800,
+        "image": "https://imgs.search.brave.com/gzZjYRhGkBGAH2kL8L0B5d8iu5VzrFJ9GFAQ8RFvm2Y/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMueWFrYWJvby51/YS9tZWRpYS9jbG91/ZGZsYXJlL3Byb2R1/Y3Qvd2VicC82MDB4/ODQwLzUvNi81Njgz/LTBkY2FmYjZjYWJh/OGJkZDNhMzhjLmpw/Zw",
+        "description": "Манга Tokyo Ghoul для любителей напряженных и захватывающих сюжетов."
+    },
+    {
+        "id": 9,
+        "name": "Сумка с персонажами",
+        "price": 2200,
+        "image": "https://imgs.search.brave.com/gFe-btBB2CG-pSk7JTTErOq4nT0ni-n-tmLrVtgqvUE/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9mYXN0/LWFuaW1lLnJ1L3N0/b3JhZ2UvdXBsb2Fk/cy9pbWFnZXMvMjAy/Mi8wOS8yMC9TS09a/U3hRUGdtVmdxOUVY/YzdiTUFjcWtnS1FN/QVRCNzE2R01pTzdr/LTIwNHhfLmpwZw",
+        "description": "Прочная сумка с изображениями популярных аниме персонажей, стильный и удобный аксессуар."
+    },
+    {
+        "id": 10,
+        "name": "Блокнот для заметок",
+        "price": 900,
+        "image": "https://imgs.search.brave.com/MR4qO2zm0Ccz5rF9fo4VHQ0hq9UJ-L-80I2QgMunS1s/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/c3RhbGwuY29tLnVh/L2NvbXBvbmVudHMv/Y29tX3ZpcnR1ZW1h/cnQvc2hvcF9pbWFn/ZS9wcm9kdWN0LzUw/MHB4L19fX19fX19f/X19fX19fX19fNjE0/YzdiZmU2ZjRkZi5q/cGc",
+        "description": "Красочный блокнот с аниме дизайном, отлично подходит для записей и заметок."
+    },
+    {
+        "id": 11,
+        "name": "Коврик для мыши",
+        "price": 1000,
+        "image": "https://imgs.search.brave.com/E_9XTSZhNg1kKGFmlguiNUkw87iC2sszakMUE9H7sOg/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMucHJvbS51YS81/MTY4NjUxMDczX3c2/NDBfaDY0MF9rb3Zy/aWsta29tcHl1dGVy/bnlqLWh1LmpwZw",
+        "description": "Эргономичный коврик для мыши с ярким аниме принтом."
+    },
+    {
+        "id": 12,
+        "name": "Футболка Naruto Shippuden",
+        "price": 2000,
+        "image": "https://imgs.search.brave.com/KTSQhmg-IUZGfY66h2AIZDJXpQQWFzRMGoAnGhab90k/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzAzLzMw/Lzk3LzAzMzA5N2Jh/MWQwNDJiMjk1MWY1/YzVhNGU4NGM0NDBl/LmpwZw",
+        "description": "Футболка Naruto Shippuden с оригинальным принтом для поклонников серии."
+    },
+    {
+        "id": 13,
+        "name": "Чашка с рисунком",
+        "price": 950,
+        "image": "https://imgs.search.brave.com/pNk2HqeMMpcdJ7O59VrC8cSi618S5Yd0u97kMqpWSl0/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9hbmlt/ZWNoYXNoa2kuY29t/LnVhL2ltZy9wcm9k/dWN0cy8yMTh4MjE4/LzFkYmJkYmVhNzE1/ZGU2ZmViN2UwZTY3/OGMwZDM0NTU4Lndl/YnA",
+        "description": "Керамическая чашка с красивым аниме рисунком. Подойдет для повседневного использования."
+    },
+    {
+        "id": 14,
+        "name": "Брелок с персонажем",
+        "price": 400,
+        "image": "https://imgs.search.brave.com/VHOQ4giFdaoJ31DrYdIvivEDJ3a6azwLeyTtB6VLu1s/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9hbmlt/ZS1taXIuY29tL2lt/YWdlL2NhY2hlL2Nh/dGFsb2cvMTY5LzAw/MCVEMCVCMCVEMCVC/MC83OC0wLTEtMS01/MDB4NTAwLmpwZw",
+        "description": "Милый брелок с персонажем из любимого аниме. Отличный аксессуар для ключей или сумки."
+    },
+    {
+        "id": 15,
+        "name": "Постер с героями",
+        "price": 1200,
+        "image": "https://imgs.search.brave.com/7AGH6D3w8mR3O318jmJIAH4sNpWuecknulekWNFl4QA/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMucHJvbS51YS80/ODY5NTM0ODM1X3c2/NDBfaDY0MF9wbGFr/YXQtYW5pbWUtZGV2/dXNoa2EuanBn",
+        "description": "Красочный постер с изображением героев аниме, идеален для украшения любой комнаты."
+    }
+]
