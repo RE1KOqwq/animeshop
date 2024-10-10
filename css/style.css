@@ -148,7 +148,7 @@ header.fixed {
     position: fixed;
     top: 0;
     width: 100%;
-    background: pink; /* Оранжевый фон для фиксированного хедера */
+    background: #5D5D81; /* Оранжевый фон для фиксированного хедера */
     max-width: 100%;
     z-index: 100;
 }
@@ -159,7 +159,7 @@ header.fixed {
     align-items: center;
     justify-content: center;
     gap: 10px;
-    background: linear-gradient(to left, #BFCDE0, ); /* Градиент для кнопки корзины */
+    background:  #BFCDE0; /* Градиент для кнопки корзины */
     border-radius: 30px;
     color: white;
     font-weight: 600;
